@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.MainPage"
+             BackgroundColor="Black">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+
+        <ScrollView>
+            <Label
+                Grid.Row="0"
+                FontSize="18"
+                HorizontalOptions="Fill"
+                x:Name="ChatLabel"
+                TextColor="Green"
+            />
+
+        </ScrollView>
+        <HorizontalStackLayout
+            Grid.Row="1"
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Entry
+                HorizontalOptions="Fill"
+                WidthRequest="1180"
+                x:Name="MessageEntry"
+                Keyboard="Chat"
+                BackgroundColor="DarkGray"
+                />
+            
+                <Button
+                    x:Name="CounterBtn"
+                    Text="Send"
+                    Clicked="OnSendButtonClicked"
+                    HorizontalOptions="Center"
+                />
+
+        </HorizontalStackLayout>
+
+    </Grid>
+
+</ContentPage>

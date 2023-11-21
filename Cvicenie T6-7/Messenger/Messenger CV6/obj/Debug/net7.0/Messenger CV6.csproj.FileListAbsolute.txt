@@ -1,0 +1,28 @@
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/bin/Debug/net7.0/Messenger CV6
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/bin/Debug/net7.0/Messenger CV6.deps.json
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/bin/Debug/net7.0/Messenger CV6.runtimeconfig.json
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/bin/Debug/net7.0/Messenger CV6.dll
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/bin/Debug/net7.0/Messenger CV6.pdb
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/obj/Debug/net7.0/Messenger CV6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/obj/Debug/net7.0/Messenger CV6.AssemblyInfoInputs.cache
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/obj/Debug/net7.0/Messenger CV6.AssemblyInfo.cs
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/obj/Debug/net7.0/Messenger CV6.csproj.CoreCompileInputs.cache
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/obj/Debug/net7.0/Messenger CV6.dll
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/obj/Debug/net7.0/refint/Messenger CV6.dll
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/obj/Debug/net7.0/Messenger CV6.pdb
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/obj/Debug/net7.0/Messenger CV6.genruntimeconfig.cache
+/Users/tobiasmitala/Documents/School/KT/Konzola pre messenger/Messenger CV6/Messenger CV6/obj/Debug/net7.0/ref/Messenger CV6.dll
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/bin/Debug/net7.0/Messenger CV6
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/bin/Debug/net7.0/Messenger CV6.deps.json
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/bin/Debug/net7.0/Messenger CV6.runtimeconfig.json
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/bin/Debug/net7.0/Messenger CV6.dll
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/bin/Debug/net7.0/Messenger CV6.pdb
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/obj/Debug/net7.0/Messenger CV6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/obj/Debug/net7.0/Messenger CV6.AssemblyInfoInputs.cache
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/obj/Debug/net7.0/Messenger CV6.AssemblyInfo.cs
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/obj/Debug/net7.0/Messenger CV6.csproj.CoreCompileInputs.cache
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/obj/Debug/net7.0/Messenger CV6.dll
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/obj/Debug/net7.0/refint/Messenger CV6.dll
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/obj/Debug/net7.0/Messenger CV6.pdb
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/obj/Debug/net7.0/Messenger CV6.genruntimeconfig.cache
+/Users/tobiasmitala/Documents/School/KT/KT-2023/Cvicenie T6-7/Messenger/Messenger CV6/obj/Debug/net7.0/ref/Messenger CV6.dll
